@@ -1,0 +1,155 @@
+{
+    "Aturan Anti Cinta": {
+        "Centers": [
+            {
+                "Center": "Marsha",
+                "Blocking 2" : "Fiony, Jessi, Lulu",
+                "Blocking 3" : "Christy, Muthe, Indah, Greesel",
+                "Blocking 4" : "Gracia, Olla, Lia",
+                "Blocking 5" : "Lulu, Jessi, Lyn",
+                "Blocking 6" : "Freya, Indira, Gracie, Raisha",
+                "Blocking 7" : "Kathrina, Flora, Eli",
+                "Blocking 8" : "Freya, Gita, Amanda, Greesel",
+                "Blocking 9" : "Gita, Kathrina, Lulu, Ella, Daisy",
+                "Blocking 10" : "Oniel, Indah, Gracie, Michie",
+                "Blocking 11" : "Jessi, Lia, Cathy",
+                "Blocking 12" : "Cynthia, Alya, Elin",
+                "Blocking 13" : "Indah, Raisha, Danella",
+                "Blocking 14" : "Lulu, Jessi, Lyn",
+                "Blocking 15" : "Eli, Oniel, Lulu, Amanda, Gendis",
+                "Blocking 16" : "Flora, Olla, Lyn, Anin"
+                
+            },
+            {
+                "Center": "Oniel",
+                "Blocking 2" : "Fiony, Jessi, Lulu",
+                "Blocking 3" : "Christy, Muthe, Marsha, Indah, Greesel",
+                "Blocking 4" : "Gracia, Olla, Lia",
+                "Blocking 5" : "Lulu, Jessi, Lyn",
+                "Blocking 6" : "Freya, Indira, Gracie, Raisha",
+                "Blocking 7" : "Kathrina, Flora, Eli",
+                "Blocking 8" : "Freya, Gita, Amanda, Greesel",
+                "Blocking 9" : "Gita, Kathrina, Lulu, Ella, Daisy",
+                "Blocking 10" : "Indah, Gracie, Michie",
+                "Blocking 11" : "Jessi, Lia, Cathy",
+                "Blocking 12" : "Cynthia, Alya, Elin",
+                "Blocking 13" : "Indah, Raisha, Danella",
+                "Blocking 14" : "Lulu, Jessi, Lyn",
+                "Blocking 15" : "Eli, Lulu, Amanda, Gendis",
+                "Blocking 16" : "Flora, Olla, Lyn, Anin"
+            },
+            {
+                "Center": "Muthe",
+                "Blocking 2" : "Fiony, Jessi, Lulu",
+                "Blocking 3" : "Christy, Marsha, Indah, Greesel",
+                "Blocking 4" : "Gracia, Olla, Lia",
+                "Blocking 5" : "Lulu, Jessi, Lyn",
+                "Blocking 6" : "Freya, Indira, Gracie, Raisha",
+                "Blocking 7" : "Kathrina, Flora, Eli",
+                "Blocking 8" : "Freya, Gita, Amanda, Greesel",
+                "Blocking 9" : "Gita, Kathrina, Lulu, Ella, Daisy",
+                "Blocking 10" : "Oniel, Indah, Gracie, Michie",
+                "Blocking 11" : "Jessi, Lia, Cathy",
+                "Blocking 12" : "Cynthia, Alya, Elin",
+                "Blocking 13" : "Indah, Raisha, Danella",
+                "Blocking 14" : "Lulu, Jessi, Lyn",
+                "Blocking 15" : "Eli, Oniel, Lulu, Amanda, Gendis",
+                "Blocking 16" : "Flora, Olla, Lyn, Anin"
+            }
+        ]
+    },
+    "Cara Meminum Ramune": {
+        "Centers": [
+            {
+                "Yellow": "Fiony",
+                "Bronze" : "Marsha, Oniel",
+                "Pink" : "Gracia, Jessi",
+                "Green" : "Muthe",
+                "Emerald" : "Feni, Kathrina, Ella",
+                "Lilac" : "Jessi, Olla, Lia",
+                "Azure" : "Gita",
+                "Lime" : "Indira, Lyn",
+                "Maroon" : "Lulu, Raisha, Elin",
+                "Lavender" : "Eli, Flora, Daisy",
+                "Coral" : "Muthe, Greesel",
+                "Magenta" : "Indah, Amanda, Cathy, Gendis",
+                "Navy" : "Marsha, Danella, Lyn",
+                "Sky blue" : "Kathrina, Lia Cynthia, Chelsea",
+                "Apricot" : "Flora, Ella, Gracie, Alya",
+                "Baby blue" : "Oniel, Indira, Michie, Anin"
+            },
+            {
+                "Yellow": "Christy",
+                "Bronze" : "Marsha, Oniel",
+                "Pink" : "Gracia, Jessi",
+                "Green" : "Muthe",
+                "Emerald" : "Feni, Kathrina, Ella",
+                "Lilac" : "Jessi, Olla, Lia",
+                "Azure" : "Gita",
+                "Lime" : "Indira, Lyn",
+                "Maroon" : "Finoy, Lulu, Raisha, Elin",
+                "Lavender" : "Eli, Flora, Daisy",
+                "Coral" : "Muthe, Greesel",
+                "Magenta" : "Indah, Amanda, Cathy, Gendis",
+                "Navy" : "Marsha, Danella, Lyn",
+                "Sky blue" : "Kathrina, Lia Cynthia, Chelsea",
+                "Apricot" : "Flora, Ella, Gracie, Alya",
+                "Baby blue" : "Oniel, Indira, Michie, Anin"
+            },
+            {
+                "Yellow": "Kathrina",
+                "Bronze" : "Marsha, Oniel",
+                "Pink" : "Gracia, Jessi",
+                "Green" : "Muthe",
+                "Emerald" : "Feni, Ella",
+                "Lilac" : "Jessi, Olla, Lia",
+                "Azure" : "Gita",
+                "Lime" : "Indira, Lyn",
+                "Maroon" : "Lulu, Raisha, Elin",
+                "Lavender" : "Eli, Flora, Daisy",
+                "Coral" : "Muthe, Greesel",
+                "Magenta" : "Indah, Amanda, Cathy, Gendis",
+                "Navy" : "Marsha, Danella, Lyn",
+                "Sky blue" : "Lia Cynthia, Chelsea",
+                "Apricot" : "Flora, Ella, Gracie, Alya",
+                "Baby blue" : "Oniel, Indira, Michie, Anin"
+            }
+        ]
+    },
+    "Ingin Bertemu": {
+        "Centers": [
+            {
+                "Center": "Fritzy",
+                "Blocking 2": "Oline",
+                "Blocking 3": "Nachia",
+                "Blocking 4": "Erine",
+                "Blocking 5": "Delynn, Regie",
+                "Blocking 6": "Ribka, Delynn",
+                "Blocking 7": "Lana, Aralie",
+                "Blocking 8": "Nayla, Nala",
+                "Blocking 9": "Nala, Levi",
+                "Blocking 10": "Kimmy",
+                "Blocking 11": "Lily",
+                "Blocking 12": "Moreen, Trisha"
+            }
+        ]
+    },
+    "Pajama Drive": {
+        "Centers": [
+            {
+                "Center": "Fritzy",
+                "Blocking 2": "Nayla, Erine",
+                "Blocking 3": "Trisha",
+                "Blocking 4": "Kimmy, Moreen",
+                "Blocking 5": "Delynn, Levi",
+                "Blocking 6": "Lily",
+                "Blocking 7": "Lana",
+                "Blocking 8": "Nala",
+                "Blocking 9": "Aralie",
+                "Blocking 10": "Regie",
+                "Blocking 11": "Oline",
+                "Blocking 12": "Nachia, Ribka"
+            }
+        ]
+    }
+}
