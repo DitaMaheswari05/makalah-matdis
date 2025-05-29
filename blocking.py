@@ -71,7 +71,7 @@ def get_ramune_blocking_members(center_name: str, data_json: dict):
 def main():
     # Membaca data JSON dari file
     try:
-        with open('makalah-matdis/list_blocking.json', 'r') as file:
+        with open('list_blocking.json', 'r') as file:
             data_json = json.load(file)
     except FileNotFoundError:
         print("File tidak ditemukan.")
