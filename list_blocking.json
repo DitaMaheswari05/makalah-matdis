@@ -8,16 +8,16 @@
                 "Blocking 4" : "Gracia, Olla, Lia",
                 "Blocking 5" : "Lulu, Jessi, Lyn",
                 "Blocking 6" : "Freya, Indira, Gracie, Raisha",
-                "Blocking 7" : "Kathrina, Eli",
+                "Blocking 7" : "Kathrina, Eli, Danella",
                 "Blocking 8" : "Freya, Gita, Amanda, Greesel",
                 "Blocking 9" : "Gita, Kathrina, Lulu, Ella, Daisy, Regie",
-                "Blocking 10" : "Oniel, Indah, Gracie, Michie, Erine",
+                "Blocking 10" : "Oniel, Indah, Gracie, Michie, Erine, Fritzy",
                 "Blocking 11" : "Jessi, Lia, Cathy, Lily",
                 "Blocking 12" : "Cynthia, Alya, Elin, Delynn",
                 "Blocking 13" : "Indah, Raisha, Danella, Nachia",
                 "Blocking 14" : "Eli, Oniel, Lulu, Amanda, Gendis, Ribka",
                 "Blocking 15" : "Indira, Chelsea, Levi",
-                "Blocking 16" : "Olla, Lyn, Anin, Aralie"
+                "Blocking 16" : "Olla, Lyn, Anin, Aralie, Lana"
                 
             },
             {
@@ -27,16 +27,16 @@
                 "Blocking 4" : "Gracia, Olla, Lia",
                 "Blocking 5" : "Lulu, Jessi, Lyn",
                 "Blocking 6" : "Freya, Indira, Gracie, Raisha",
-                "Blocking 7" : "Kathrina, Eli",
+                "Blocking 7" : "Kathrina, Eli, Danella",
                 "Blocking 8" : "Freya, Gita, Amanda, Greesel",
                 "Blocking 9" : "Gita, Kathrina, Lulu, Ella, Daisy, Regie",
-                "Blocking 10" : "Oniel, Indah, Gracie, Michie, Erine",
+                "Blocking 10" : "Oniel, Indah, Gracie, Michie, Erine, Fritzy",
                 "Blocking 11" : "Jessi, Lia, Cathy, Lily",
                 "Blocking 12" : "Cynthia, Alya, Elin, Delynn",
                 "Blocking 13" : "Indah, Raisha, Danella, Nachia",
                 "Blocking 14" : "Eli, Lulu, Amanda, Gendis, Ribka",
                 "Blocking 15" : "Marsha, Indira, Chelsea, Levi",
-                "Blocking 16" : "Olla, Lyn, Anin, Aralie"
+                "Blocking 16" : "Olla, Lyn, Anin, Aralie, Lana"
             },
             {
                 "Center": "Muthe",
@@ -45,16 +45,52 @@
                 "Blocking 4" : "Gracia, Olla, Lia",
                 "Blocking 5" : "Lulu, Jessi, Lyn",
                 "Blocking 6" : "Freya, Indira, Gracie, Raisha",
-                "Blocking 7" : "Kathrina, Eli",
+                "Blocking 7" : "Kathrina, Eli, Danella",
                 "Blocking 8" : "Freya, Gita, Amanda, Greesel",
                 "Blocking 9" : "Gita, Kathrina, Lulu, Ella, Daisy, Regie",
-                "Blocking 10" : "Oniel, Indah, Gracie, Michie, Erine",
+                "Blocking 10" : "Oniel, Indah, Gracie, Michie, Erine, Fritzy",
                 "Blocking 11" : "Jessi, Lia, Cathy, Lily",
                 "Blocking 12" : "Cynthia, Alya, Elin, Delynn",
                 "Blocking 13" : "Indah, Raisha, Danella, Nachia",
                 "Blocking 14" : "Eli, Oniel, Lulu, Amanda, Gendis, Ribka",
                 "Blocking 15" : "Marsha, Indira, Chelsea, Levi",
-                "Blocking 16" : "Olla, Lyn, Anin, Aralie"
+                "Blocking 16" : "Olla, Lyn, Anin, Aralie, Lana"
+            },
+            {
+                "Center": "Feni",
+                "Blocking 2" : "Fiony, Jessi, Lulu",
+                "Blocking 3" : "Christy, Muthe, Indah, Greesel",
+                "Blocking 4" : "Gracia, Olla, Lia",
+                "Blocking 5" : "Lulu, Jessi, Lyn",
+                "Blocking 6" : "Freya, Indira, Gracie, Raisha",
+                "Blocking 7" : "Kathrina, Eli, Danella",
+                "Blocking 8" : "Freya, Gita, Amanda, Greesel",
+                "Blocking 9" : "Gita, Kathrina, Lulu, Ella, Daisy, Regie",
+                "Blocking 10" : "Oniel, Indah, Gracie, Michie, Erine, Fritzy",
+                "Blocking 11" : "Jessi, Lia, Cathy, Lily",
+                "Blocking 12" : "Cynthia, Alya, Elin, Delynn",
+                "Blocking 13" : "Indah, Raisha, Danella, Nachia",
+                "Blocking 14" : "Eli, Oniel, Lulu, Amanda, Gendis, Ribka",
+                "Blocking 15" : "Marsha, Indira, Chelsea, Levi",
+                "Blocking 16" : "Olla, Lyn, Anin, Aralie, Lana"  
+            },
+            {
+                "Center": "Indah",
+                "Blocking 2" : "Fiony, Jessi, Lulu",
+                "Blocking 3" : "Christy, Muthe, Greesel",
+                "Blocking 4" : "Gracia, Olla, Lia",
+                "Blocking 5" : "Lulu, Jessi, Lyn",
+                "Blocking 6" : "Freya, Indira, Gracie, Raisha",
+                "Blocking 7" : "Kathrina, Eli, Danella",
+                "Blocking 8" : "Freya, Gita, Amanda, Greesel",
+                "Blocking 9" : "Gita, Kathrina, Lulu, Ella, Daisy, Regie",
+                "Blocking 10" : "Oniel, Gracie, Michie, Erine, Fritzy",
+                "Blocking 11" : "Jessi, Lia, Cathy, Lily",
+                "Blocking 12" : "Cynthia, Alya, Elin, Delynn",
+                "Blocking 13" : "Indah, Raisha, Danella, Nachia",
+                "Blocking 14" : "Eli, Oniel, Lulu, Amanda, Gendis, Ribka",
+                "Blocking 15" : "Marsha, Indira, Chelsea, Levi",
+                "Blocking 16" : "Olla, Lyn, Anin, Aralie, Lana"  
             }
         ]
     },
@@ -129,7 +165,7 @@
                 "Blocking 8": "Erine, Mikaela",
                 "Blocking 9": "Regie, Delynn, Giaa",
                 "Blocking 10": "Aralie, Auwia",
-                "Blocking 11": "Lily",
+                "Blocking 11": "Lily, Rilly",
                 "Blocking 12": "Virgi"
             }
         ]
@@ -142,13 +178,13 @@
                 "Blocking 3": "Levi, Delynn, Jemima",
                 "Blocking 4": "Oline",
                 "Blocking 5": "Regie, Auwia",
-                "Blocking 6": "Kimmy",
+                "Blocking 6": "Kimmy, Maira",
                 "Blocking 7": "Ekin",
                 "Blocking 8": "Intan",
-                "Blocking 9": "Lily",
+                "Blocking 9": "Lily, Virgi",
                 "Blocking 10": "Nala, Giaa",
                 "Blocking 11": "Aralie, Erine. Mikaela",
-                "Blocking 12": "Nachia, Ribka"
+                "Blocking 12": "Nachia, Ribka, Rilly"
             }
         ]
     },
